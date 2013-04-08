@@ -2,7 +2,8 @@
  * 3. Basic Functions
  */
 
-function () {}
+// Function syntax:
+// function () {}
 
 (function () {})
 //=> [Function]
