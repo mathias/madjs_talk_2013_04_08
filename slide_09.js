@@ -4,6 +4,6 @@
 
 if (true) {
   this_will_happen();
-} else if {
+} else {
   this_wont_happen();
 }
